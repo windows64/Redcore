@@ -36,6 +36,10 @@ https://www.redcore.cn/enterprise/
 
 https://www.redcore.cn/about/
 
+https://redcorebrowser.com/
+
+https://redcoreproject.com/
+
 Service service@yunshipei.com
 
 Deputy sanaeosltd@gmail.com 3134088531@qq.com @yeah.net
