@@ -38,4 +38,4 @@ https://www.redcore.cn/about/
 
 Service service@yunshipei.com
 
-Deputy sanaeosltd@gmail.com @qq.com @yeah.net
+Deputy sanaeosltd@gmail.com 3134088531@qq.com @yeah.net
