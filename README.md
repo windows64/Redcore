@@ -1,4 +1,4 @@
-# Redcore
+# Redcore Chromium Enterprise Browser
 
 https://www.redcore.cn/
 
