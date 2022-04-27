@@ -24,6 +24,8 @@ https://www.redcore.cn/usage.html
 
 ![This is an image](https://tnimage.s3.hicloud.net.tw/photos/shares/5b7684d4400be.PNG)
 
+https://www.redcore.cn/browser/
+
 https://www.redcore.cn/ent/
 
 https://www.redcore.cn/enterprise/
