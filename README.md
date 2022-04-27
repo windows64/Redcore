@@ -26,6 +26,8 @@ https://www.redcore.cn/usage.html
 
 https://www.redcore.cn/browser/
 
+https://www.redcore.cn/download/
+
 https://www.redcore.cn/ent/
 
 https://www.redcore.cn/enterprise/
