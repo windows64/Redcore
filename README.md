@@ -1,4 +1,4 @@
-# Redcore Chromium Enterprise Browser
+# Redcore Chromium Speed/Enterprise Browser
 
 https://www.redcore.cn/
 
@@ -22,6 +22,8 @@ https://www.redcore.cn/about/contacts.html
 
 https://www.redcore.cn/usage.html
 
+https://browser.redcore.cn/
+
 ![This is an image](https://tnimage.s3.hicloud.net.tw/photos/shares/5b7684d4400be.PNG)
 
 https://www.redcore.cn/browser/
@@ -31,3 +33,5 @@ https://www.redcore.cn/download/
 https://www.redcore.cn/ent/
 
 https://www.redcore.cn/enterprise/
+
+https://www.redcore.cn/about/
