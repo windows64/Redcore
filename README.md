@@ -1,4 +1,4 @@
-# Redcore Chromium Speed/Enterprise Browser
+# Redcore Chromium Speed-Faster/Enterprise Browser
 
 https://www.redcore.cn/
 
