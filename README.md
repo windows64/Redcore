@@ -24,7 +24,7 @@ https://www.redcore.cn/usage.html
 
 https://browser.redcore.cn/
 
-![This is an image](https://tnimage.s3.hicloud.net.tw/photos/shares/5b7684d4400be.PNG)
+!
 
 https://www.redcore.cn/browser/
 
@@ -44,4 +44,4 @@ https://redcorebeijing.com/
 
 Service service@yunshipei.com Global us@allmobilize.com
 
-Deputy sanaeosltd@gmail.com @outlook.com @yehoo.com @wo.cn @3134088531@qq.com @yeah.net
+Deputy @gmail.com @outlook.com @yehoo.com @wo.cn @qq.com @yeah.net
